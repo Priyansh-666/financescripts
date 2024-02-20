@@ -2,3 +2,4 @@ pymongo
 urllib3
 nsepython
 pandas
+flask
